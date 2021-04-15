@@ -1,4 +1,5 @@
 # Loopy String
+# JOhn Rowley update
 word = input("Enter a word: ")
 print("\nHer's  each letter in your word")
 for letter in word:
